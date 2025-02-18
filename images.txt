@@ -5,5 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #lmsysorg/sglang:latest
-#vllm/vllm-openai:latest
+vllm/vllm-openai:latest
 ollama/ollama:latest
