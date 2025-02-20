@@ -7,3 +7,4 @@
 lmsysorg/sglang:latest
 vllm/vllm-openai:latest
 #ollama/ollama:latest
+semitechnologies/weaviate:latest
