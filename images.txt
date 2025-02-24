@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ollama/ollama:latest
-#lmsysorg/sglang:latest
+lmsysorg/sglang:latest
 #vllm/vllm-openai:latest
 #semitechnologies/weaviate:latest
 #qdrant/qdrant:latest
@@ -17,4 +17,4 @@
 #infiniflow/ragflow:v0.16.0
 #infiniflow/ragflow:v0.16.0-slim
 #ubuntu:24.04
-nvidia/cuda:12.8.0-cudnn-devel-ubuntu24.04
+#nvidia/cuda:12.8.0-cudnn-devel-ubuntu24.04
