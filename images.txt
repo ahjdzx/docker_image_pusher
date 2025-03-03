@@ -5,8 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ollama/ollama:latest
-lmsysorg/sglang:latest
-vllm/vllm-openai:latest
+#lmsysorg/sglang:latest
+#vllm/vllm-openai:latest
 #semitechnologies/weaviate:latest
 #qdrant/qdrant:latest
 #infiniflow/infinity:v0.6.0-dev3
@@ -19,5 +19,5 @@ vllm/vllm-openai:latest
 #ubuntu:24.04
 #nvidia/cuda:12.8.0-cudnn-devel-ubuntu24.04
 #1panel/kubepi
-#lmsysorg/sglang:dev
-ghcr.io/open-webui/open-webui:main
+lmsysorg/sglang:dev
+#ghcr.io/open-webui/open-webui:main
