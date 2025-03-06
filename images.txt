@@ -20,6 +20,6 @@
 #ubuntu:24.04
 #nvidia/cuda:12.8.0-cudnn-devel-ubuntu24.04
 #1panel/kubepi
-#lmsysorg/sglang:dev
+lmsysorg/sglang:dev
 #ghcr.io/open-webui/open-webui:main
-nvcr.io/nvidia/tritonserver:25.02-trtllm-python-py3
+#nvcr.io/nvidia/tritonserver:25.02-trtllm-python-py3
