@@ -24,4 +24,5 @@
 #ghcr.io/open-webui/open-webui:main
 #nvcr.io/nvidia/tritonserver:25.02-trtllm-python-py3
 #yanwk/comfyui-boot:cu121
-bash:alpine3.19
+#bash:alpine3.19
+sd-comfy:7
