@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ollama/ollama:latest
-lmsysorg/sglang:latest
+#lmsysorg/sglang:latest
 #vllm/vllm-openai:latest
 #vllm/vllm-openai:v0.7.3
 #semitechnologies/weaviate:latest
@@ -23,3 +23,4 @@ lmsysorg/sglang:latest
 #lmsysorg/sglang:dev
 #ghcr.io/open-webui/open-webui:main
 #nvcr.io/nvidia/tritonserver:25.02-trtllm-python-py3
+yanwk/comfyui-boot:cu121
