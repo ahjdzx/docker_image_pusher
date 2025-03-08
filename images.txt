@@ -25,4 +25,5 @@
 #nvcr.io/nvidia/tritonserver:25.02-trtllm-python-py3
 #yanwk/comfyui-boot:cu121
 #bash:alpine3.19
-pytorch/pytorch:2.6.0-cuda12.6-cudnn9-runtime
+#pytorch/pytorch:2.6.0-cuda12.6-cudnn9-runtime
+pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
