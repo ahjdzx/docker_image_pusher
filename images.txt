@@ -27,4 +27,5 @@
 #bash:alpine3.19
 #pytorch/pytorch:2.6.0-cuda12.6-cudnn9-runtime
 #pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
-pytorch/pytorch:2.4.1-cuda12.4-cudnn9-runtime
+#pytorch/pytorch:2.4.1-cuda12.4-cudnn9-runtime
+ghcr.io/ai-dock/comfyui:v2-cuda-12.1.1-base-22.04-v0.2.7
