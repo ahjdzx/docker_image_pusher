@@ -20,7 +20,7 @@
 #ubuntu:24.04
 #nvidia/cuda:12.8.0-cudnn-devel-ubuntu24.04
 #1panel/kubepi
-lmsysorg/sglang:dev
+#lmsysorg/sglang:dev
 #ghcr.io/open-webui/open-webui:main
 #nvcr.io/nvidia/tritonserver:25.02-trtllm-python-py3
 #yanwk/comfyui-boot:cu121
@@ -29,3 +29,5 @@ lmsysorg/sglang:dev
 #pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
 #pytorch/pytorch:2.4.1-cuda12.4-cudnn9-runtime
 #ghcr.io/ai-dock/comfyui:v2-cuda-12.1.1-base-22.04-v0.2.7
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
+pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
