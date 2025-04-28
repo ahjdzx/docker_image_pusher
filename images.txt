@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #ollama/ollama:latest
 #lmsysorg/sglang:latest
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
 #vllm/vllm-openai:v0.7.3
 #semitechnologies/weaviate:latest
 #qdrant/qdrant:latest
@@ -31,3 +31,4 @@ vllm/vllm-openai:latest
 #ghcr.io/ai-dock/comfyui:v2-cuda-12.1.1-base-22.04-v0.2.7
 #nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
+node:22.14.0-alpine
