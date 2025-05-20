@@ -8,7 +8,7 @@
 #lmsysorg/sglang:latest
 #vllm/vllm-openai:latest
 #vllm/vllm-openai:v0.7.3
-vllm/vllm-openai:v0.8.5
+#vllm/vllm-openai:v0.8.5
 #semitechnologies/weaviate:latest
 #qdrant/qdrant:latest
 #infiniflow/infinity:v0.6.0-dev3
@@ -33,3 +33,4 @@ vllm/vllm-openai:v0.8.5
 #nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 #node:22.14.0-alpine
+easydl/tfplus:tf213_dev
