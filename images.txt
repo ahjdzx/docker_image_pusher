@@ -6,10 +6,11 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #ollama/ollama:latest
 #lmsysorg/sglang:latest
+lmsysorg/sglang:v0.4.7
 #vllm/vllm-openai:latest
 #vllm/vllm-openai:v0.7.3
 #vllm/vllm-openai:v0.8.5
-vllm/vllm-openai:v0.9.0.1
+#vllm/vllm-openai:v0.9.0.1
 #semitechnologies/weaviate:latest
 #qdrant/qdrant:latest
 #infiniflow/infinity:v0.6.0-dev3
