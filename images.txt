@@ -6,7 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #ollama/ollama:latest
 #lmsysorg/sglang:latest
-lmsysorg/sglang:v0.4.7
 #vllm/vllm-openai:latest
 #vllm/vllm-openai:v0.7.3
 #vllm/vllm-openai:v0.8.5
@@ -36,3 +35,4 @@ lmsysorg/sglang:v0.4.7
 #pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 #node:22.14.0-alpine
 #easydl/tfplus:tf213_dev
+nvcr.io/nvidia/tritonserver:25.05-py3
