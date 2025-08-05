@@ -35,4 +35,5 @@
 #pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 #node:22.14.0-alpine
 #easydl/tfplus:tf213_dev
-nvcr.io/nvidia/tritonserver:25.05-py3
+#nvcr.io/nvidia/tritonserver:25.05-py3
+tensorflow/serving:2.6.2-devel
