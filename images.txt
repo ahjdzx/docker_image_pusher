@@ -38,3 +38,4 @@
 #nvcr.io/nvidia/tritonserver:25.05-py3
 #tensorflow/serving:2.6.2-devel
 nvidia/cuda:12.1.1-devel-ubuntu22.04
+nvidia/cuda:12.1.1-cudnn8-devel-ubuntu22.04
