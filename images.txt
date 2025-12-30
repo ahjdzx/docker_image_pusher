@@ -40,4 +40,5 @@
 #nvidia/cuda:12.1.1-devel-ubuntu22.04
 #nvidia/cuda:12.1.1-cudnn8-devel-ubuntu22.04
 #alideeprec/deeprec-build:deeprec-dev-cpu-py38-ubuntu22.04
-alideeprec/deeprec-release-modelzoo:latest
+#alideeprec/deeprec-release-modelzoo:latest
+verlai/verl:vllm012.latest
